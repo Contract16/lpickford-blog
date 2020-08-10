@@ -2,19 +2,19 @@
 title: About
 date: 2019-07-09
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Android Java/Kotlin Developer
 
-## How to use?
+## Whoami?
+I'm a Software Developer currently living in Liverpool, UK, making apps for [Pixelbeard](https://www.pixelbeard.co/). Generally I code in the day, then do some training in the evenings with Capoeira, Brazilian Jiu Jitsu, Climbing, or other exercise in the park/my living room.
 
-### Managing content with [Forestry](https://forestry.io)
+## What's my experience?
+I started out with native Android/Java development while I was still in University and have worked in small startups/studios since then. I've worked on apps for various clients, and have switched languages/frameworks a few times depending on my roles in any given company. So far I have work as (in order):
+- Native Android/Java
+- Xamarin/C# Cross Platform Mobile for Android/iOS/UWP
+- Spring Boot/Java Back End
+- Native Android/Kotlin
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+## What's this blog about?
+This is just a place for me to put my thoughts, experiences, any code I want to share or anything I build which I think may be helpful to other people. This could be in code, exercise, or other aspects of my life.
