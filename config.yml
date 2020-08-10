@@ -1,31 +1,31 @@
-title: "The Butler"
-baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil."
-keywords: "Cecil, Static Site Generator, SSG"
-author: "Arnaud Ligny"
-baseurl: "/"
-canonicalurl: true
-theme: "hyde"
-date:
-  format: "j F Y"
-  timezone: "Europe/Paris"
+baseline: Thoughts of a Scouse Software Developer
+theme: hyde
 output:
   formats:
     - name: netlify_redirects
-      mediatype: "text/plain"
+      mediatype: text/plain
       extension: ""
+keywords: Cecil, Static Site Generator, SSG
+author: Arnaud Ligny
+date:
+  format: j F Y
+  timezone: Europe/Paris
+netlify:
+  cms:
+    path: admin
+    version: latest
+  identity:
+    version: v1
+postprocess:
+  enabled: true
+title: Lawrence Pickford
+description: Thoughts of a Scouse Software Developer
+baseurl: /
+canonicalurl: true
 virtualpages:
   - path: admin
-    title: "Content Manager (Netlify CMS)"
+    title: Content Manager (Netlify CMS)
     layout: admin/index
     output: html
   - path: _redirects
     output: netlify_redirects
-netlify:
-  cms:
-    path: "admin"
-    version: "latest"
-  identity:
-    version: "v1"
-postprocess:
-  enabled: true
