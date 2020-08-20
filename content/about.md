@@ -2,7 +2,7 @@
 title: About
 date: 2019-07-09
 menu: main
-draft: true
+draft: false
 ---
 > Android Java/Kotlin Coder
 
