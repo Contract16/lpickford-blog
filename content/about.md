@@ -4,7 +4,7 @@ date: 2019-07-09
 menu: main
 draft: true
 ---
-> Android Java/Kotlin Developer
+> Android Java/Kotlin Coder
 
 ## Whoami?
 I'm a Software Developer currently living in Liverpool, UK, making apps for [Pixelbeard](https://www.pixelbeard.co/). Generally I code in the day, then do some training in the evenings with Capoeira, Brazilian Jiu Jitsu, Climbing, or other exercise in the park/my living room.
