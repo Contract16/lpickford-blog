@@ -2,7 +2,9 @@
 title: Wind Telephone
 date: 2020-08-20T22:10:31.046Z
 tags:
-  - self help emotions wind telephone
+  - self help
+  - emotions
+  - wind telephone
 draft: false
 ---
 I originally started this site as a place to put code snippets and things I've been working on, and I've realised already that it's also a place to put my thoughts and open up a bit on what's going on in my head. This is my first post, hopefully not my last, but I'm going to start by talking about how feelings and emotions affect me personally and professionally.
