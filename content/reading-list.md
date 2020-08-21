@@ -6,13 +6,17 @@ draft: true
 ---
 > My Reading List
 
-## General Software
-
-
-## Android
-
+## Coding
+- [Effective Java - Joshua Bloch](https://www.hive.co.uk/Product/Joshua-Bloch/Effective-Java/21027244)
+- [Working Effectively with Legacy Code](https://www.hive.co.uk/Product/Michael-Feathers/Working-Effectively-with-Legacy-Code/297441)
+- 
 
 ## Self Improvement
-
+- [Atomic Habits - James Clear](https://www.hive.co.uk/Product/James-Clear/Atomic-Habits--The-life-changing-million-copy-bestseller/22336599)
+- [How to Win Friends and Influence People - Dale Carnegie](https://www.hive.co.uk/Product/Dale-Carnegie/How-to-Win-Friends-and-Influence-People/136905)
+- [Drawing on the Right Side of the Brain - Betty Edwards](https://www.hive.co.uk/Product/Betty-Edwards/Drawing-on-the-Right-Side-of-the-Brain-Workbook--Guided-P/24941044)
+- [A Guide to Better Movement : The Science and Practice of Moving with More Skill and Less Pain - Todd Hargrove](https://www.hive.co.uk/Product/Todd-Hargrove/A-Guide-to-Better-Movement--The-Science-and-Practice-of-M/16135479)
 
 ## Fun
+- [The Culture Books - Iain M Banks](https://www.hive.co.uk/Search?Author=Iain+M.+Banks)
+- [Deathworlders - Philip Richard Johnson, AKA Hambone](https://deathworlders.com/)
