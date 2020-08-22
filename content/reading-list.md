@@ -5,11 +5,18 @@ menu: main
 draft: true
 ---
 > My Reading List
+I like to read. Some of these books are just for work, others are just for fun. Here's a list of books I've read that I recommend for people to jump in.
+
+Jump to section:
+- [Coding](#coding)
+- [Self Improvement](#self-improvement)
+- [Fun](#fun)
 
 ## Coding
 - [Effective Java - Joshua Bloch](https://www.hive.co.uk/Product/Joshua-Bloch/Effective-Java/21027244)
 - [Working Effectively with Legacy Code](https://www.hive.co.uk/Product/Michael-Feathers/Working-Effectively-with-Legacy-Code/297441)
-- 
+
+## Misc 
 
 ## Self Improvement
 - [Atomic Habits - James Clear](https://www.hive.co.uk/Product/James-Clear/Atomic-Habits--The-life-changing-million-copy-bestseller/22336599)
@@ -19,4 +26,6 @@ draft: true
 
 ## Fun
 - [The Culture Books - Iain M Banks](https://www.hive.co.uk/Search?Author=Iain+M.+Banks)
+- [Discworld - Terry Pratchett](https://www.hive.co.uk/Search?Author=Terry+Pratchett)
 - [Deathworlders - Philip Richard Johnson, AKA Hambone](https://deathworlders.com/)
+- [Calvin and Hobbes - Bill Watterson](https://www.hive.co.uk/Product/Bill-Watterson/The-Complete-Calvin-and-Hobbes/1850887)
