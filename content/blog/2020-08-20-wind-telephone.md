@@ -7,9 +7,11 @@ tags:
   - wind telephone
 draft: false
 ---
-I originally started this site as a place to put code snippets and things I've been working on, and I've realised already that it's also a place to put my thoughts and open up a bit on what's going on in my head. This is my first post, hopefully not my last, but I'm going to start by talking about how feelings and emotions affect me personally and professionally.
+I originally started this site as a place to put code snippets and things I've been working on, and I've realised already that it's also a place to put my thoughts and open up a bit on what's going on in my head. 
 
-I'd like to preface this with that I'm talking about how feelings and emotions affect me personally, and on a broader sense how they affect a lot of men. This isn't to say that I don't believe women and others don't also have these issues, or that it's the worst issue to have, but it's just my own experiences in this particular issue and that I believe it's something that would be beneficial to solve.
+This is my first post, hopefully not my last, but I'm going to start by talking about how feelings and emotions affect me personally and professionally.
+
+I'd like to preface this by emphasising  that though I’ll be talking about my subjective emotional state,  I suspect that my experience reflects that of a lot of men. This isn't to say that I don't believe women and others don't also face similar issues, or that mine are the worst issues to have. But they're there and I believe that making some headway in untangling them could only mean progress.
 
 I've just listened to a podcast episode of This American Life called [One Last Thing Before I Go](https://www.thisamericanlife.org/597/one-last-thing-before-i-go-2016), originally airing in 2016, where the first section is about a place in Japan called The Wind Telephone. This is a place where people can go, enter a phone booth, and pick up the phone to talk to their dead loved ones. It was made originally as a place for one man to talk to his dead relatives, but after the 2011 tsunami many others came to visit and speak to theirs, as a private place with no-one around to hear. An interesting statistic which is mentioned in this is that most of the people visiting are men, talking about their feelings, opening up in a way that wouldn't normally happen, and generally telling their loved ones how they feel in a way which is only possibly for a large number of men when there's no-one else around.
 
