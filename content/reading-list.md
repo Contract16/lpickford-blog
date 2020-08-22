@@ -4,10 +4,10 @@ date: 2019-07-21
 menu: main
 draft: true
 ---
-> My Reading List
+# My Reading List
 I like to read. Some of these books are just for work, others are just for fun. Here's a list of books I've read that I recommend for people to jump in. I'll be adding to this list as time goes by and I remember other books/series I've read, and as I read more :)
 
-Jump to section:
+>Jump to section:
 - [Coding](#coding)
 - [Self Improvement](#self-improvement)
 - [Fun](#fun)
