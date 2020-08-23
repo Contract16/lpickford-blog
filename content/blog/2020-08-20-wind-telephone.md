@@ -1,6 +1,6 @@
 ---
 title: Wind Telephone
-date: 2020-08-20T22:10:31.046Z
+date: 2020-08-23T09:45:34.019Z
 tags:
   - self help
   - emotions
