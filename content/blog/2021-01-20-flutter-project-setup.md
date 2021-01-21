@@ -1,5 +1,5 @@
 ---
-title: Flutter Project Setup
+title: Exercise App Series Part 1 - Building Blocks
 date: 2021-01-20T14:02:26.515Z
 image: https://images.freeimages.com/images/large-previews/0c0/blocks-1420958.jpg
 tags:
